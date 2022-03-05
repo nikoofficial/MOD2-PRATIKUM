@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\MOD2 PRATIKUM\bin\Debug\MOD2 PRATIKUM.exe.config
+C:\Users\ASUS\source\repos\MOD2 PRATIKUM\bin\Debug\MOD2 PRATIKUM.exe
+C:\Users\ASUS\source\repos\MOD2 PRATIKUM\bin\Debug\MOD2 PRATIKUM.pdb
+C:\Users\ASUS\source\repos\MOD2 PRATIKUM\obj\Debug\MOD2 PRATIKUM.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MOD2 PRATIKUM\obj\Debug\MOD2 PRATIKUM.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\MOD2 PRATIKUM\obj\Debug\MOD2_PRATIKUM.Form1.resources
+C:\Users\ASUS\source\repos\MOD2 PRATIKUM\obj\Debug\MOD2_PRATIKUM.Properties.Resources.resources
+C:\Users\ASUS\source\repos\MOD2 PRATIKUM\obj\Debug\MOD2 PRATIKUM.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MOD2 PRATIKUM\obj\Debug\MOD2 PRATIKUM.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MOD2 PRATIKUM\obj\Debug\MOD2 PRATIKUM.exe
+C:\Users\ASUS\source\repos\MOD2 PRATIKUM\obj\Debug\MOD2 PRATIKUM.pdb
